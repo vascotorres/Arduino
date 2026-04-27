@@ -19,6 +19,12 @@ Ficheiro: `vx8_portugal_chirp.csv`
 - ANACOM (QNAF e enquadramento): https://www.anacom.pt/render.jsp?categoryId=348130
 - Radioamador.pt (referência complementar): https://radioamador.pt/
 
+
+## Variante para Porto (nova)
+- Ficheiro adicional: `vx8_porto_chirp.csv`.
+- É o mesmo conjunto de 158 memórias, mas ordenado para começar por repetidores mais úteis na zona do Porto/Norte (Gaia, Gondomar, Braga, Guimarães, etc.).
+- Depois mantém os restantes repetidores nacionais e, no fim, blocos de escuta (AIR/MAR/AIS, PMR446, CB27).
+
 ## Importar no CHIRP
 1. Ligue o cabo USB MAXTON RPC--Y8R-U ao VX-8.
 2. No CHIRP: **Radio > Download From Radio** (backup da configuração atual).
